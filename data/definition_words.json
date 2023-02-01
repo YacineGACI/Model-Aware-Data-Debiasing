@@ -1,0 +1,49 @@
+{
+    "gender": {
+        "man": [
+            "male", "man", "men", "he", "himself", "his", "him", "boy", "father", "grandfather", "brother", "uncle"
+        ],
+
+        "woman": [
+            "female", "woman", "women", "she", "herself", "her", "girl", "mother", "grandmother", "sister", "aunt"
+        ]
+    },
+
+
+    "race": {
+        "european": [
+            "white", "caucasian", "european", "french", "english", "spanish", "german"
+        ],
+
+        "african": [
+            "african", "black", "nigerian"
+        ],
+
+        "arab": [
+            "arab", "arabian"
+        ],
+
+        "asian": [
+            "asian", "chinese", "japanese", "korean"
+        ],
+
+        "hispanic": [
+            "hispanic", "latino"
+        ]
+    },
+
+
+    "religion": {
+        "muslim": [
+            "muslim", "muslims"
+        ],
+
+        "christian": [
+            "christian", "christians"
+        ],
+
+        "jew": [
+            "jew", "jews", "jewish"
+        ]
+    }
+}
