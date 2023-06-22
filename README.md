@@ -1,5 +1,5 @@
 # Towards Debiasing Task-Specific NLP Models by Debiasing their Training Data
-This implementation is the source code companion of our paper entitled *"Towards Debiasing Task-Specific NLP Models by Debiasing their Training Data"*. This project contains code to identify which instances in data risk amplifying social stereotypes in the finetuning phase, and also code to actually finetune downstream NLP models with either removing or augmenting the most problematic instances in training data.
+This implementation is the source code companion of our paper entitled *"Targeting the Source: Selective Data Curation for Debiasing NLP Models"* published at ECML-PKDD 2023. This project contains code to identify which instances in data risk amplifying social stereotypes in the finetuning phase, and also code to actually finetune downstream NLP models with either removing or augmenting the most problematic instances in training data.
 
 ## Requirements
 - datasets==1.1.2
